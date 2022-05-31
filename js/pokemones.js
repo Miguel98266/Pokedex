@@ -68,7 +68,8 @@ class Pokedex {
 const pokemon = new Pokedex();
 
 function obtenerDatos() {
-  const url = "pokemons.json";
+  const url = "js/pokemons.json";
+  
   fetch(url)
     .then((respuesta) => {
       console.log(respuesta);
