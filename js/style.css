@@ -1,0 +1,62 @@
+img{
+    margin: 0 auto;
+    max-width: 200px;
+    height: auto;
+}
+
+.card{
+    width: 15rem;
+    cursor: pointer;
+}
+
+.card:hover{
+    transform: scale(1.1);
+}
+
+.badge{
+    text-transform: capitalize;
+}
+
+.bg-poison{
+    background-color: #B97FC9;
+}
+.bg-psychic{
+    background-color: #E987D5;
+}
+.bg-flying{
+    background-color: #78BBD6;
+}
+.bg-bug{
+    background-color: #31B331;
+}
+.bg-dark{
+    background-color: #636363;
+}
+.bg-electric{
+    background-color: #E3B600;
+}
+
+.bg-ice{
+    background-color: #00B6ED;
+}
+.bg-steel{
+    background-color: #95B3DB;
+}
+.bg-ground{
+    background-color: #CBA041;
+}
+.bg-fighting{
+    background-color: #C75400;
+}
+.bg-rock{
+    background-color: #9F774F;
+}
+.bg-fairy{
+    background-color: #FE7DB7;
+}
+.bg-ghost{
+    background-color: #8B77EF;
+}
+.bg-dragon{
+    background-color: #3B63C7;
+}
